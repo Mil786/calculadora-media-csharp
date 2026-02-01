@@ -23,3 +23,5 @@ Para rodar este programa, você precisará ter o [.NET SDK](https://dotnet.micro
 3. Execute o comando:
    ```bash
    dotnet run
+-----------------------------------------------------------------
+*Este projeto faz parte do meu portfólio de estudos em Beck-end.*
